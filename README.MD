@@ -15,4 +15,5 @@ pip install -r ./requirements.txt
 ```
  - Preinstalled Postgres with permissions and tables ( check `postgres/init.sql`)
 ## How to run
- 
+- Add db congig creds on `config.json` file
+- Run `python3 main.py`
